@@ -6,6 +6,8 @@ El desafío es desarrollar esta landing page y lograr que se parezca lo más pos
 - CSS
 - JS Vanilla (with animejs library)
 
+![desktop-preview](https://user-images.githubusercontent.com/112582420/213539918-cb908321-e452-445e-b0b9-387ac0d76f1a.jpg)
+
 # Guía de Estilo
 
 ## Diseño
